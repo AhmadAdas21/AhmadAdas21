@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:38BDF8&height=220&section=header&text=Ahmad%20Adas&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Backend%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn&v=2" width="100%" alt="Ahmad Adas Header"/>
+<h1>Hi 👋, I'm Ahmad Adas</h1>
+
+<h3>Backend Developer • AWS Cloud • DevOps</h3>
+
+<p>Computer Engineering Student at An-Najah National University</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Backend+Developer+with+FastAPI;Building+with+AWS+Cloud;Learning+DevOps+and+Scalable+Systems;Always+Learning.+Always+Building." alt="Typing Introduction"/>
 
